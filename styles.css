@@ -1,0 +1,27 @@
+.div_A{
+    background-color: #85e2e9;
+     width: 350px;
+      height: 400px;
+}
+.div_B{
+    background-color: #e7de8f;
+     width: 30%;
+      height: 40%;
+}         
+.p_A{
+    color: white;
+     background-color: rgb(255, 0, 149);
+      font-size: 15px;
+       font-family: monospace;
+        font-weight: bold;
+}       
+.div_C{
+    width: 70%;
+     height: 70vh;
+      background-color: rgb(235, 147, 155);
+}
+.div_D{
+    width: 65vw;
+     height: 40%;
+      background-color: rgb(152, 168, 136);
+}
